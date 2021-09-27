@@ -16,6 +16,9 @@ p{
     font-family: monospace;
     line-height: 20px;
 }
+a{
+    text-decoration: none;
+}
 a:link{
     color: #B05B3B;
 }
@@ -30,6 +33,9 @@ a:visited{
     font-size: 40px;
     color: #B61919;
 }
+#phrase{
+    margin:auto 3rem;
+}
 .color-azul{
     color: #0F52BA;
 }
@@ -43,7 +49,7 @@ ul{
     padding: 15px;
     display: block;
 }
-.navbar{
+.nav-item{
     color:#fcdcc5;
     list-style-type: none;
     margin: 30px;
@@ -66,4 +72,11 @@ ul{
 [type="checkbox"]{
     margin-top:10px;
     margin-bottom:15px;
+}
+
+/* Blog */
+
+.blog-text{
+    border-color: #B05B3B;
+    margin: 1.5rem auto;
 }
