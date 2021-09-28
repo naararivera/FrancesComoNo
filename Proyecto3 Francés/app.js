@@ -38,3 +38,9 @@ function relojito() {
 }
 relojito();
 
+// weather APP API key: fa91a7f7ea3a2782ea7475d53f576a68
+
+// URL para el tiempo en París:
+// https://api.openweathermap.org/data/2.5/weather?q=paris&units=metric&lang=es&appid=fa91a7f7ea3a2782ea7475d53f576a68
+// URL para el tiempo en Madrid:
+// https://api.openweathermap.org/data/2.5/weather?q=madrid&units=metric&lang=es&appid=fa91a7f7ea3a2782ea7475d53f576a68

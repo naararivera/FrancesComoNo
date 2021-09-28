@@ -16,6 +16,11 @@ p{
     font-family: monospace;
     line-height: 20px;
 }
+hr{
+   border-top: 6px dotted #B05B3B;
+    width: 6rem;
+    
+}
 a{
     text-decoration: none;
 }
